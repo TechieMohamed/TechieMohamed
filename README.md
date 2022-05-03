@@ -1,10 +1,10 @@
 ## Ciao mondo! 👋 I'm Mohamed Emam 😀
 A Self-taught Developer 💻 from the land of Pharaohs "EGYPT" 🌤
 
-## My Superpowers 💪
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express)
+## Superpowers 💪
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs)
 
-![My Skills](https://skillicons.dev/icons?i=git,sass,bootstrap,tailwind)
+![My Skills](https://skillicons.dev/icons?i=git,sass)
 
 ## Bio 📖
 - 🔭 I’m currently working on building more fun projects & gain more superpowers 🐱‍🏍
